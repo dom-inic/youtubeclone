@@ -1,3 +1,5 @@
-# Flutter YouTube Clone UI Tutorial | Apps From Scratch
+#Youtube clone made using flutter 
+#Features
+Video
+youtube shorts
 
-[YouTube Video](https://youtu.be/umhl2hakkcY)
